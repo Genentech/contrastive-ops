@@ -1,0 +1,27 @@
+#!/bin/bash
+#BSUB -J ops-train                       # Job name
+#BSUB -n 8                            # number of tasks
+#BSUB -R "span[hosts=1]"                 # Allocate all tasks in 1 host
+#BSUB -R "affinity[core(1)*1:cpubind=core:membind=localprefer:distribute=pack(numa=1)]"
+#BSUB -q long                            # Select queue
+#BSUB -W 12:00                            # hours:minutes
+#BSUB -gpu "num=1:j_exclusive=yes"       # Request 1 GPU exclusive for the job
+#BSUB -o /home/wangz222/scratch/out/output-%J.out                   # Output file
+#BSUB -e /home/wangz222/scratch/out/output-%J.out                   # Error file
+
+#========START============================
+echo "The job name is $LSB_JOBNAME"
+echo "The current job ID is $LSB_JOBID"
+echo "The number of tasks is $LSB_DJOB_NUMPROC"
+echo "The host is $LSB_MCPU_HOSTS"
+echo "The queue is $LSB_QUEUE"
+
+# Activate the conda environment
+source ~/miniconda3/etc/profile.d/conda.sh
+conda activate ops
+
+#train model
+CMD="python ../src/train.py --model_name vae --module base --latent_dim 32 --label --subname 32 --max_epochs 1 --limit_val_batches 50"
+echo $CMD
+$CMD
+#========END==============================

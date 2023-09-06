@@ -1,0 +1,1490 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1142.905313pt" height="387.795625pt" viewBox="0 0 1142.905313 387.795625" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2023-08-13T23:04:45.472030</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.7.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 387.795625 
+L 1142.905313 387.795625 
+L 1142.905313 0 
+L 0 0 
+L 0 387.795625 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 126.616563 261.179063 
+L 361.957813 261.179063 
+L 361.957813 25.837812 
+L 126.616563 25.837812 
+L 126.616563 261.179063 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#p30cae395f2)">
+    <image xlink:href="data:image/png;base64,
+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" id="imageab3dbd0c54" transform="scale(1 -1) translate(0 -235.44)" x="126.616563" y="-25.739063" width="235.44" height="235.44"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="me35e39f337" d="M 0 0 
+L 0 2.75 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#me35e39f337" x="133.538364" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(135.745864 323.262813) rotate(-90)">40S Ribosome</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#me35e39f337" x="147.381967" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(149.589467 323.262813) rotate(-90)">60S Ribosome</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#me35e39f337" x="161.22557" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(163.43307 325.542813) rotate(-90)">Actin/Adhesion</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#me35e39f337" x="175.069173" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(177.276673 304.102813) rotate(-90)">Cell cycle</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#me35e39f337" x="188.912776" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(191.120276 362.014063) rotate(-90)">Chromosome alignment</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#me35e39f337" x="202.756379" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(204.963879 318.766563) rotate(-90)">DNA damage</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#me35e39f337" x="216.599982" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(218.807482 328.269063) rotate(-90)">DNA replication</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#me35e39f337" x="230.443585" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(232.651085 309.486563) rotate(-90)">General TF</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#me35e39f337" x="244.287188" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(246.494688 345.086563) rotate(-90)">Protein degradation</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#me35e39f337" x="258.13079" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(260.33829 331.870313) rotate(-90)">RNA Polymerase</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#me35e39f337" x="271.974393" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(274.181893 328.597813) rotate(-90)">RNA processing</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#me35e39f337" x="285.817996" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(288.025496 350.751563) rotate(-90)">Ribosome biogenesis</text>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#me35e39f337" x="299.661599" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(301.869099 335.927813) rotate(-90)">Spindle bipolarity</text>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#me35e39f337" x="313.505202" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(315.712702 316.525313) rotate(-90)">Spliceosome</text>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#me35e39f337" x="327.348805" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(329.556305 309.512813) rotate(-90)">Translation</text>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#me35e39f337" x="341.192408" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(343.399908 294.339063) rotate(-90)">Tubulin</text>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#me35e39f337" x="355.036011" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(357.243511 336.765313) rotate(-90)">Vesicle trafficking</text>
+     </g>
+    </g>
+    <g id="text_18">
+     <text style="font: 13px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: middle" x="244.287188" y="377.892031" transform="rotate(-0 244.287188 377.892031)">Predicted label</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_18">
+      <defs>
+       <path id="mf8b3d8246f" d="M 0 0 
+L -2.75 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="126.616563" y="32.759614" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: end" x="121.866563" y="35.798989" transform="rotate(-0 121.866563 35.798989)">40S Ribosome</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="126.616563" y="46.603217" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: end" x="121.866563" y="49.642592" transform="rotate(-0 121.866563 49.642592)">60S Ribosome</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="126.616563" y="60.44682" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: end" x="121.866563" y="63.486195" transform="rotate(-0 121.866563 63.486195)">Actin/Adhesion</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="126.616563" y="74.290423" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: end" x="121.866563" y="77.329798" transform="rotate(-0 121.866563 77.329798)">Cell cycle</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="126.616563" y="88.134026" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: end" x="121.866563" y="91.173401" transform="rotate(-0 121.866563 91.173401)">Chromosome alignment</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="126.616563" y="101.977629" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: end" x="121.866563" y="105.017004" transform="rotate(-0 121.866563 105.017004)">DNA damage</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="126.616563" y="115.821232" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: end" x="121.866563" y="118.860607" transform="rotate(-0 121.866563 118.860607)">DNA replication</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="126.616563" y="129.664835" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: end" x="121.866563" y="132.70421" transform="rotate(-0 121.866563 132.70421)">General TF</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="126.616563" y="143.508438" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: end" x="121.866563" y="146.547813" transform="rotate(-0 121.866563 146.547813)">Protein degradation</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="126.616563" y="157.35204" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: end" x="121.866563" y="160.391415" transform="rotate(-0 121.866563 160.391415)">RNA Polymerase</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="126.616563" y="171.195643" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: end" x="121.866563" y="174.235018" transform="rotate(-0 121.866563 174.235018)">RNA processing</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="126.616563" y="185.039246" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: end" x="121.866563" y="188.078621" transform="rotate(-0 121.866563 188.078621)">Ribosome biogenesis</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="126.616563" y="198.882849" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: end" x="121.866563" y="201.922224" transform="rotate(-0 121.866563 201.922224)">Spindle bipolarity</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="126.616563" y="212.726452" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: end" x="121.866563" y="215.765827" transform="rotate(-0 121.866563 215.765827)">Spliceosome</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="126.616563" y="226.570055" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: end" x="121.866563" y="229.60943" transform="rotate(-0 121.866563 229.60943)">Translation</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_33">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="126.616563" y="240.413658" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_34">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: end" x="121.866563" y="243.453033" transform="rotate(-0 121.866563 243.453033)">Tubulin</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="126.616563" y="254.257261" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_35">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: end" x="121.866563" y="257.296636" transform="rotate(-0 121.866563 257.296636)">Vesicle trafficking</text>
+     </g>
+    </g>
+    <g id="text_36">
+     <text style="font: 13px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: middle" x="17.077969" y="143.508438" transform="rotate(-90 17.077969 143.508438)">True label</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 126.616563 261.179063 
+L 126.616563 25.837813 
+" style="fill: none; stroke: #000000; stroke-width: 1.2; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 126.616563 261.179063 
+L 361.957813 261.179063 
+" style="fill: none; stroke: #000000; stroke-width: 1.2; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_37">
+    <text style="font: 14px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: middle" x="244.287188" y="17.837812" transform="rotate(-0 244.287188 17.837812)">salient</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 376.587813 261.179063 
+L 611.929063 261.179063 
+L 611.929063 25.837813 
+L 376.587813 25.837813 
+L 376.587813 261.179063 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#p4e3d41b878)">
+    <image xlink:href="data:image/png;base64,
+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" id="image7718f76ba1" transform="scale(1 -1) translate(0 -235.44)" x="376.587813" y="-25.739063" width="235.44" height="235.44"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_18">
+     <g id="line2d_35">
+      <g>
+       <use xlink:href="#me35e39f337" x="383.509614" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_38">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(385.717114 323.262813) rotate(-90)">40S Ribosome</text>
+     </g>
+    </g>
+    <g id="xtick_19">
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#me35e39f337" x="397.353217" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_39">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(399.560717 323.262813) rotate(-90)">60S Ribosome</text>
+     </g>
+    </g>
+    <g id="xtick_20">
+     <g id="line2d_37">
+      <g>
+       <use xlink:href="#me35e39f337" x="411.19682" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_40">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(413.40432 325.542813) rotate(-90)">Actin/Adhesion</text>
+     </g>
+    </g>
+    <g id="xtick_21">
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#me35e39f337" x="425.040423" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_41">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(427.247923 304.102813) rotate(-90)">Cell cycle</text>
+     </g>
+    </g>
+    <g id="xtick_22">
+     <g id="line2d_39">
+      <g>
+       <use xlink:href="#me35e39f337" x="438.884026" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_42">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(441.091526 362.014063) rotate(-90)">Chromosome alignment</text>
+     </g>
+    </g>
+    <g id="xtick_23">
+     <g id="line2d_40">
+      <g>
+       <use xlink:href="#me35e39f337" x="452.727629" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_43">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(454.935129 318.766563) rotate(-90)">DNA damage</text>
+     </g>
+    </g>
+    <g id="xtick_24">
+     <g id="line2d_41">
+      <g>
+       <use xlink:href="#me35e39f337" x="466.571232" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_44">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(468.778732 328.269063) rotate(-90)">DNA replication</text>
+     </g>
+    </g>
+    <g id="xtick_25">
+     <g id="line2d_42">
+      <g>
+       <use xlink:href="#me35e39f337" x="480.414835" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_45">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(482.622335 309.486563) rotate(-90)">General TF</text>
+     </g>
+    </g>
+    <g id="xtick_26">
+     <g id="line2d_43">
+      <g>
+       <use xlink:href="#me35e39f337" x="494.258438" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_46">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(496.465938 345.086563) rotate(-90)">Protein degradation</text>
+     </g>
+    </g>
+    <g id="xtick_27">
+     <g id="line2d_44">
+      <g>
+       <use xlink:href="#me35e39f337" x="508.10204" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_47">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(510.30954 331.870313) rotate(-90)">RNA Polymerase</text>
+     </g>
+    </g>
+    <g id="xtick_28">
+     <g id="line2d_45">
+      <g>
+       <use xlink:href="#me35e39f337" x="521.945643" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_48">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(524.153143 328.597813) rotate(-90)">RNA processing</text>
+     </g>
+    </g>
+    <g id="xtick_29">
+     <g id="line2d_46">
+      <g>
+       <use xlink:href="#me35e39f337" x="535.789246" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_49">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(537.996746 350.751563) rotate(-90)">Ribosome biogenesis</text>
+     </g>
+    </g>
+    <g id="xtick_30">
+     <g id="line2d_47">
+      <g>
+       <use xlink:href="#me35e39f337" x="549.632849" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_50">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(551.840349 335.927813) rotate(-90)">Spindle bipolarity</text>
+     </g>
+    </g>
+    <g id="xtick_31">
+     <g id="line2d_48">
+      <g>
+       <use xlink:href="#me35e39f337" x="563.476452" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_51">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(565.683952 316.525313) rotate(-90)">Spliceosome</text>
+     </g>
+    </g>
+    <g id="xtick_32">
+     <g id="line2d_49">
+      <g>
+       <use xlink:href="#me35e39f337" x="577.320055" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_52">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(579.527555 309.512813) rotate(-90)">Translation</text>
+     </g>
+    </g>
+    <g id="xtick_33">
+     <g id="line2d_50">
+      <g>
+       <use xlink:href="#me35e39f337" x="591.163658" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_53">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(593.371158 294.339063) rotate(-90)">Tubulin</text>
+     </g>
+    </g>
+    <g id="xtick_34">
+     <g id="line2d_51">
+      <g>
+       <use xlink:href="#me35e39f337" x="605.007261" y="261.179063" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_54">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(607.214761 336.765313) rotate(-90)">Vesicle trafficking</text>
+     </g>
+    </g>
+    <g id="text_55">
+     <text style="font: 13px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: middle" x="494.258438" y="377.892031" transform="rotate(-0 494.258438 377.892031)">Predicted label</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_18">
+     <g id="line2d_52">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="376.587813" y="32.759614" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_53">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="376.587813" y="46.603217" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_54">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="376.587813" y="60.44682" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_55">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="376.587813" y="74.290423" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="line2d_56">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="376.587813" y="88.134026" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_23">
+     <g id="line2d_57">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="376.587813" y="101.977629" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_58">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="376.587813" y="115.821232" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_25">
+     <g id="line2d_59">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="376.587813" y="129.664835" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_26">
+     <g id="line2d_60">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="376.587813" y="143.508438" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_27">
+     <g id="line2d_61">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="376.587813" y="157.35204" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_28">
+     <g id="line2d_62">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="376.587813" y="171.195643" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_29">
+     <g id="line2d_63">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="376.587813" y="185.039246" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_30">
+     <g id="line2d_64">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="376.587813" y="198.882849" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_31">
+     <g id="line2d_65">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="376.587813" y="212.726452" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_32">
+     <g id="line2d_66">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="376.587813" y="226.570055" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_33">
+     <g id="line2d_67">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="376.587813" y="240.413658" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_34">
+     <g id="line2d_68">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="376.587813" y="254.257261" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_6">
+    <path d="M 376.587813 261.179063 
+L 376.587813 25.837813 
+" style="fill: none; stroke: #000000; stroke-width: 1.2; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 376.587813 261.179063 
+L 611.929063 261.179063 
+" style="fill: none; stroke: #000000; stroke-width: 1.2; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_56">
+    <text style="font: 14px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: middle" x="494.258438" y="17.837812" transform="rotate(-0 494.258438 17.837812)">background</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_8">
+    <path d="M 626.559063 261.179062 
+L 861.900313 261.179062 
+L 861.900313 25.837813 
+L 626.559063 25.837813 
+L 626.559063 261.179062 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#pb1af0435a0)">
+    <image xlink:href="data:image/png;base64,
+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" id="imagede78a642fd" transform="scale(1 -1) translate(0 -235.44)" x="626.559063" y="-25.739062" width="235.44" height="235.44"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_35">
+     <g id="line2d_69">
+      <g>
+       <use xlink:href="#me35e39f337" x="633.480864" y="261.179062" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_57">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(635.688364 323.262812) rotate(-90)">40S Ribosome</text>
+     </g>
+    </g>
+    <g id="xtick_36">
+     <g id="line2d_70">
+      <g>
+       <use xlink:href="#me35e39f337" x="647.324467" y="261.179062" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_58">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(649.531967 323.262812) rotate(-90)">60S Ribosome</text>
+     </g>
+    </g>
+    <g id="xtick_37">
+     <g id="line2d_71">
+      <g>
+       <use xlink:href="#me35e39f337" x="661.16807" y="261.179062" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_59">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(663.37557 325.542813) rotate(-90)">Actin/Adhesion</text>
+     </g>
+    </g>
+    <g id="xtick_38">
+     <g id="line2d_72">
+      <g>
+       <use xlink:href="#me35e39f337" x="675.011673" y="261.179062" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_60">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(677.219173 304.102813) rotate(-90)">Cell cycle</text>
+     </g>
+    </g>
+    <g id="xtick_39">
+     <g id="line2d_73">
+      <g>
+       <use xlink:href="#me35e39f337" x="688.855276" y="261.179062" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_61">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(691.062776 362.014063) rotate(-90)">Chromosome alignment</text>
+     </g>
+    </g>
+    <g id="xtick_40">
+     <g id="line2d_74">
+      <g>
+       <use xlink:href="#me35e39f337" x="702.698879" y="261.179062" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_62">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(704.906379 318.766563) rotate(-90)">DNA damage</text>
+     </g>
+    </g>
+    <g id="xtick_41">
+     <g id="line2d_75">
+      <g>
+       <use xlink:href="#me35e39f337" x="716.542482" y="261.179062" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_63">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(718.749982 328.269063) rotate(-90)">DNA replication</text>
+     </g>
+    </g>
+    <g id="xtick_42">
+     <g id="line2d_76">
+      <g>
+       <use xlink:href="#me35e39f337" x="730.386085" y="261.179062" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_64">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(732.593585 309.486562) rotate(-90)">General TF</text>
+     </g>
+    </g>
+    <g id="xtick_43">
+     <g id="line2d_77">
+      <g>
+       <use xlink:href="#me35e39f337" x="744.229688" y="261.179062" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_65">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(746.437188 345.086563) rotate(-90)">Protein degradation</text>
+     </g>
+    </g>
+    <g id="xtick_44">
+     <g id="line2d_78">
+      <g>
+       <use xlink:href="#me35e39f337" x="758.07329" y="261.179062" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_66">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(760.28079 331.870313) rotate(-90)">RNA Polymerase</text>
+     </g>
+    </g>
+    <g id="xtick_45">
+     <g id="line2d_79">
+      <g>
+       <use xlink:href="#me35e39f337" x="771.916893" y="261.179062" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_67">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(774.124393 328.597813) rotate(-90)">RNA processing</text>
+     </g>
+    </g>
+    <g id="xtick_46">
+     <g id="line2d_80">
+      <g>
+       <use xlink:href="#me35e39f337" x="785.760496" y="261.179062" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_68">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(787.967996 350.751563) rotate(-90)">Ribosome biogenesis</text>
+     </g>
+    </g>
+    <g id="xtick_47">
+     <g id="line2d_81">
+      <g>
+       <use xlink:href="#me35e39f337" x="799.604099" y="261.179062" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_69">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(801.811599 335.927813) rotate(-90)">Spindle bipolarity</text>
+     </g>
+    </g>
+    <g id="xtick_48">
+     <g id="line2d_82">
+      <g>
+       <use xlink:href="#me35e39f337" x="813.447702" y="261.179062" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_70">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(815.655202 316.525313) rotate(-90)">Spliceosome</text>
+     </g>
+    </g>
+    <g id="xtick_49">
+     <g id="line2d_83">
+      <g>
+       <use xlink:href="#me35e39f337" x="827.291305" y="261.179062" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_71">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(829.498805 309.512812) rotate(-90)">Translation</text>
+     </g>
+    </g>
+    <g id="xtick_50">
+     <g id="line2d_84">
+      <g>
+       <use xlink:href="#me35e39f337" x="841.134908" y="261.179062" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_72">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(843.342408 294.339063) rotate(-90)">Tubulin</text>
+     </g>
+    </g>
+    <g id="xtick_51">
+     <g id="line2d_85">
+      <g>
+       <use xlink:href="#me35e39f337" x="854.978511" y="261.179062" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_73">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(857.186011 336.765313) rotate(-90)">Vesicle trafficking</text>
+     </g>
+    </g>
+    <g id="text_74">
+     <text style="font: 13px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: middle" x="744.229688" y="377.892031" transform="rotate(-0 744.229688 377.892031)">Predicted label</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_35">
+     <g id="line2d_86">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="626.559063" y="32.759614" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_36">
+     <g id="line2d_87">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="626.559063" y="46.603217" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_37">
+     <g id="line2d_88">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="626.559063" y="60.44682" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_38">
+     <g id="line2d_89">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="626.559063" y="74.290423" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_39">
+     <g id="line2d_90">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="626.559063" y="88.134026" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_40">
+     <g id="line2d_91">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="626.559063" y="101.977629" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_41">
+     <g id="line2d_92">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="626.559063" y="115.821232" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_42">
+     <g id="line2d_93">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="626.559063" y="129.664835" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_43">
+     <g id="line2d_94">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="626.559063" y="143.508438" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_44">
+     <g id="line2d_95">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="626.559063" y="157.35204" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_45">
+     <g id="line2d_96">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="626.559063" y="171.195643" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_46">
+     <g id="line2d_97">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="626.559063" y="185.039246" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_47">
+     <g id="line2d_98">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="626.559063" y="198.882849" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_48">
+     <g id="line2d_99">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="626.559063" y="212.726452" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_49">
+     <g id="line2d_100">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="626.559063" y="226.570055" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_50">
+     <g id="line2d_101">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="626.559063" y="240.413658" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_51">
+     <g id="line2d_102">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="626.559063" y="254.257261" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_9">
+    <path d="M 626.559063 261.179062 
+L 626.559063 25.837813 
+" style="fill: none; stroke: #000000; stroke-width: 1.2; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 626.559063 261.179062 
+L 861.900313 261.179062 
+" style="fill: none; stroke: #000000; stroke-width: 1.2; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_75">
+    <text style="font: 14px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: middle" x="744.229688" y="17.837813" transform="rotate(-0 744.229688 17.837813)">combined</text>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_11">
+    <path d="M 876.530313 253.861414 
+L 1097.236265 253.861414 
+L 1097.236265 33.155461 
+L 876.530313 33.155461 
+L 876.530313 253.861414 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#p464a6dc321)">
+    <image xlink:href="data:image/png;base64,
+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" id="image564068859a" transform="scale(1 -1) translate(0 -221.04)" x="876.530313" y="-32.821414" width="221.04" height="221.04"/>
+   </g>
+   <g id="matplotlib.axis_7">
+    <g id="xtick_52">
+     <g id="line2d_103">
+      <g>
+       <use xlink:href="#me35e39f337" x="883.021664" y="253.861414" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_76">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(885.229164 315.945164) rotate(-90)">40S Ribosome</text>
+     </g>
+    </g>
+    <g id="xtick_53">
+     <g id="line2d_104">
+      <g>
+       <use xlink:href="#me35e39f337" x="896.004367" y="253.861414" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_77">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(898.211867 315.945164) rotate(-90)">60S Ribosome</text>
+     </g>
+    </g>
+    <g id="xtick_54">
+     <g id="line2d_105">
+      <g>
+       <use xlink:href="#me35e39f337" x="908.98707" y="253.861414" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_78">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(911.19457 318.225164) rotate(-90)">Actin/Adhesion</text>
+     </g>
+    </g>
+    <g id="xtick_55">
+     <g id="line2d_106">
+      <g>
+       <use xlink:href="#me35e39f337" x="921.969773" y="253.861414" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_79">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(924.177273 296.785164) rotate(-90)">Cell cycle</text>
+     </g>
+    </g>
+    <g id="xtick_56">
+     <g id="line2d_107">
+      <g>
+       <use xlink:href="#me35e39f337" x="934.952476" y="253.861414" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_80">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(937.159976 354.696414) rotate(-90)">Chromosome alignment</text>
+     </g>
+    </g>
+    <g id="xtick_57">
+     <g id="line2d_108">
+      <g>
+       <use xlink:href="#me35e39f337" x="947.935179" y="253.861414" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_81">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(950.142679 311.448914) rotate(-90)">DNA damage</text>
+     </g>
+    </g>
+    <g id="xtick_58">
+     <g id="line2d_109">
+      <g>
+       <use xlink:href="#me35e39f337" x="960.917883" y="253.861414" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_82">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(963.125383 320.951414) rotate(-90)">DNA replication</text>
+     </g>
+    </g>
+    <g id="xtick_59">
+     <g id="line2d_110">
+      <g>
+       <use xlink:href="#me35e39f337" x="973.900586" y="253.861414" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_83">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(976.108086 302.168914) rotate(-90)">General TF</text>
+     </g>
+    </g>
+    <g id="xtick_60">
+     <g id="line2d_111">
+      <g>
+       <use xlink:href="#me35e39f337" x="986.883289" y="253.861414" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_84">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(989.090789 337.768914) rotate(-90)">Protein degradation</text>
+     </g>
+    </g>
+    <g id="xtick_61">
+     <g id="line2d_112">
+      <g>
+       <use xlink:href="#me35e39f337" x="999.865992" y="253.861414" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_85">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(1002.073492 324.552664) rotate(-90)">RNA Polymerase</text>
+     </g>
+    </g>
+    <g id="xtick_62">
+     <g id="line2d_113">
+      <g>
+       <use xlink:href="#me35e39f337" x="1012.848695" y="253.861414" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_86">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(1015.056195 321.280164) rotate(-90)">RNA processing</text>
+     </g>
+    </g>
+    <g id="xtick_63">
+     <g id="line2d_114">
+      <g>
+       <use xlink:href="#me35e39f337" x="1025.831398" y="253.861414" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_87">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(1028.038898 343.433914) rotate(-90)">Ribosome biogenesis</text>
+     </g>
+    </g>
+    <g id="xtick_64">
+     <g id="line2d_115">
+      <g>
+       <use xlink:href="#me35e39f337" x="1038.814101" y="253.861414" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_88">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(1041.021601 328.610164) rotate(-90)">Spindle bipolarity</text>
+     </g>
+    </g>
+    <g id="xtick_65">
+     <g id="line2d_116">
+      <g>
+       <use xlink:href="#me35e39f337" x="1051.796804" y="253.861414" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_89">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(1054.004304 309.207664) rotate(-90)">Spliceosome</text>
+     </g>
+    </g>
+    <g id="xtick_66">
+     <g id="line2d_117">
+      <g>
+       <use xlink:href="#me35e39f337" x="1064.779507" y="253.861414" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_90">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(1066.987007 302.195164) rotate(-90)">Translation</text>
+     </g>
+    </g>
+    <g id="xtick_67">
+     <g id="line2d_118">
+      <g>
+       <use xlink:href="#me35e39f337" x="1077.76221" y="253.861414" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_91">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(1079.96971 287.021414) rotate(-90)">Tubulin</text>
+     </g>
+    </g>
+    <g id="xtick_68">
+     <g id="line2d_119">
+      <g>
+       <use xlink:href="#me35e39f337" x="1090.744913" y="253.861414" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_92">
+      <text style="font: 8px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif" transform="translate(1092.952413 329.447664) rotate(-90)">Vesicle trafficking</text>
+     </g>
+    </g>
+    <g id="text_93">
+     <text style="font: 13px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: middle" x="986.883289" y="370.574382" transform="rotate(-0 986.883289 370.574382)">Predicted label</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_8">
+    <g id="ytick_52">
+     <g id="line2d_120">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="876.530313" y="39.646813" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_53">
+     <g id="line2d_121">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="876.530313" y="52.629516" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_54">
+     <g id="line2d_122">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="876.530313" y="65.612219" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_55">
+     <g id="line2d_123">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="876.530313" y="78.594922" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_56">
+     <g id="line2d_124">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="876.530313" y="91.577625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_57">
+     <g id="line2d_125">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="876.530313" y="104.560328" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_58">
+     <g id="line2d_126">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="876.530313" y="117.543031" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_59">
+     <g id="line2d_127">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="876.530313" y="130.525734" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_60">
+     <g id="line2d_128">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="876.530313" y="143.508438" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_61">
+     <g id="line2d_129">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="876.530313" y="156.491141" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_62">
+     <g id="line2d_130">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="876.530313" y="169.473844" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_63">
+     <g id="line2d_131">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="876.530313" y="182.456547" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_64">
+     <g id="line2d_132">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="876.530313" y="195.43925" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_65">
+     <g id="line2d_133">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="876.530313" y="208.421953" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_66">
+     <g id="line2d_134">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="876.530313" y="221.404656" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_67">
+     <g id="line2d_135">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="876.530313" y="234.387359" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_68">
+     <g id="line2d_136">
+      <g>
+       <use xlink:href="#mf8b3d8246f" x="876.530313" y="247.370062" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_12">
+    <path d="M 876.530313 253.861414 
+L 876.530313 33.155461 
+" style="fill: none; stroke: #000000; stroke-width: 1.2; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 876.530313 253.861414 
+L 1097.236265 253.861414 
+" style="fill: none; stroke: #000000; stroke-width: 1.2; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_94">
+    <text style="font: 14px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: middle" x="986.883289" y="25.155461" transform="rotate(-0 986.883289 25.155461)">cellprofiler</text>
+   </g>
+  </g>
+  <g id="axes_5">
+   <g id="patch_14">
+    <path d="M 1100.836265 253.861414 
+L 1111.871563 253.861414 
+L 1111.871563 33.155461 
+L 1100.836265 33.155461 
+L 1100.836265 253.861414 
+z
+" style="fill: none"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAB8AAAJlCAYAAAAiiCm3AAAC7klEQVR4nO3dQU7EUAwE0Q/K/a/LAikzt/hvUV0XsGy3K5EI8PP3//kcxK8qfM45j+sbd47Hftzcbeew8XbgHDMcoSuZGY7QlcwMR+garrvzFScscIQZjqB37gifWvm9PSqZGY7QNVxXMjpwUcN1JaMD51jgCM+pSmaBI0wyhPKpVQ2393bCDEfQO49KZoYjdCUzwxG6hutKRgfOMcn0is9wBL1zR/nUwoGLSmaGI3QN15WMDlzUcF3J6MA5ZjhCVzIzHKErmRmO0DVcVzI6cI5Jpld8hiPonTvCp/ZCxS1whD3VCOGn2rvAAcKByxquu/MZjrDAEcqGy3b+7tQA4cDN7YJw4LKG6+5cG86hAxc9NW04xwJH6EpmgSN0JbPAEbpvr3M7YZ8tEMKB67o9+zLRfarN7YQFjhAOXPizhWrn+mWiemrZwHUlo8e+U7tPOnCuuA5c9dSyO9/YCfskjVAOXLbz7AukHrsrvlPrFe/eeTdw3R/q7dQI3VPTgXPFdeCqp5bd+cZO6J7a3uEI3cDtNYqw93ZCOHAznGCS6RXv/kJFVzL6zl3xBY7QfarpsVcDN8kIyqcGi+tTW+Du032kdg3X3fkMR1jgCGHDhd/b92U/oGu4rmRmOEI3cF3J6FNb4O4TDtwMJ9CdR3eux+6K684XuPt0x75TI6RPzRXXnS9w91ngCLpzVzx9agvcfRY4gu7cFdedR3eux+6K684XuPt0x75TI6RPzRXHP0WGX2xs573iXcMtcIQFjqA7j+58Yyc88PP2Bc6wzgndzjd2wtxOCAdunQvCp5Y13AJH6I59nRPCpza3C8KBy4493HlWMgscodv5xk4Idz63C8KBy3a+sRPCnc/tgnDgup2faud67O4/KerOF7j7LHAE3Xl05xs7oXtqeuwL3H1059Gd67EvcPdZ4Ai682jgujvXY88GrvrXFhY4Qrrzndp9FjjCAkfQnUcD1925HvsCd58FjqA7jwauu3M99mjgviKuHYb3UR81AAAAAElFTkSuQmCC" id="image3393d55e23" transform="scale(1 -1) translate(0 -220.68)" x="1100.88" y="-33.12" width="11.16" height="220.68"/>
+   <g id="matplotlib.axis_9"/>
+   <g id="matplotlib.axis_10">
+    <g id="ytick_69">
+     <g id="line2d_137">
+      <defs>
+       <path id="mc939a41ba3" d="M 0 0 
+L 2.75 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mc939a41ba3" x="1111.871563" y="253.861414" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_95">
+      <text style="font: 12px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: start" x="1116.621563" y="258.420476" transform="rotate(-0 1116.621563 258.420476)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_70">
+     <g id="line2d_138">
+      <g>
+       <use xlink:href="#mc939a41ba3" x="1111.871563" y="208.588398" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_96">
+      <text style="font: 12px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: start" x="1116.621563" y="213.14746" transform="rotate(-0 1116.621563 213.14746)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_71">
+     <g id="line2d_139">
+      <g>
+       <use xlink:href="#mc939a41ba3" x="1111.871563" y="163.315382" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_97">
+      <text style="font: 12px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: start" x="1116.621563" y="167.874444" transform="rotate(-0 1116.621563 167.874444)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_72">
+     <g id="line2d_140">
+      <g>
+       <use xlink:href="#mc939a41ba3" x="1111.871563" y="118.042366" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_98">
+      <text style="font: 12px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: start" x="1116.621563" y="122.601429" transform="rotate(-0 1116.621563 122.601429)">0.6</text>
+     </g>
+    </g>
+    <g id="ytick_73">
+     <g id="line2d_141">
+      <g>
+       <use xlink:href="#mc939a41ba3" x="1111.871563" y="72.76935" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_99">
+      <text style="font: 12px 'Helvetica', 'Computer Modern Sans Serif', 'DejaVU Sans', sans-serif; text-anchor: start" x="1116.621563" y="77.328413" transform="rotate(-0 1116.621563 77.328413)">0.8</text>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_1"/>
+   <g id="patch_15">
+    <path d="M 1100.836265 253.861414 
+L 1106.353914 253.861414 
+L 1111.871563 253.861414 
+L 1111.871563 33.155461 
+L 1106.353914 33.155461 
+L 1100.836265 33.155461 
+L 1100.836265 253.861414 
+z
+" style="fill: none; stroke: #000000; stroke-width: 1.2; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p30cae395f2">
+   <rect x="126.616563" y="25.837812" width="235.34125" height="235.34125"/>
+  </clipPath>
+  <clipPath id="p4e3d41b878">
+   <rect x="376.587813" y="25.837812" width="235.34125" height="235.34125"/>
+  </clipPath>
+  <clipPath id="pb1af0435a0">
+   <rect x="626.559063" y="25.837813" width="235.34125" height="235.34125"/>
+  </clipPath>
+  <clipPath id="p464a6dc321">
+   <rect x="876.530313" y="33.155461" width="220.705952" height="220.705952"/>
+  </clipPath>
+ </defs>
+</svg>
